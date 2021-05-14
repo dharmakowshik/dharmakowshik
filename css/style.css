@@ -808,11 +808,11 @@ button:focus{
 	position: relative;
 	width: 25%;
 	margin: 0;
-	padding: 0px 15px;
+	/* padding: 0px 15px; */
 	float: left;
 	border: none;
 	overflow: hidden;
-	margin-bottom: 30px;
+	/* margin-bottom: 30px; */
 }
 .gallery-box ul li a{
 	position: relative;

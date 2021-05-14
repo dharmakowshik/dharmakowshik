@@ -114,7 +114,11 @@
 		position: inherit;
 		margin: 12px 0px;
 	}
+	.home-slider {
+		height: 80%;
+	}
 	.lbox-details::before{
+		height: 0%;
 		background: rgba(0,0,0,0.9);
 	}
 	.countdown{
