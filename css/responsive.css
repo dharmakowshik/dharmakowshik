@@ -1,5 +1,21 @@
 /* only small desktops */
 /* tablets */
+@media (min-width: 1190px) {
+	.video-height {
+		display: none;
+		min-height: 400px;
+		/* iframe {
+		} */
+	}
+}
+@media (max-width: 1190px) {
+	.video-small {
+		display: none;
+		/* iframe {
+		} */
+	}
+}
+
 @media (min-width: 992px) and (max-width: 1190px) {
 	.countdown{
 		height: 285px;
